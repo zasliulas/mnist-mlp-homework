@@ -1,0 +1,19 @@
+{
+    "test_samples": 10000,
+    "test_loss": 0.0865,
+    "test_accuracy": 97.5,
+    "correct_predictions": 9750,
+    "incorrect_predictions": 250,
+    "class_accuracies": {
+        "0": 98.98,
+        "1": 98.77,
+        "2": 97.29,
+        "3": 96.34,
+        "4": 96.84,
+        "5": 97.31,
+        "6": 97.91,
+        "7": 96.69,
+        "8": 96.92,
+        "9": 97.82
+    }
+}

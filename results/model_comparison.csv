@@ -1,0 +1,3 @@
+﻿Model,Parametre Sayısı,En İyi Validation Accuracy (%),Test Loss,Test Accuracy (%),Doğru Tahmin,Yanlış Tahmin,Eğitim Süresi (sn)
+Model 1 (256-128),235146,97.8,0.0983,97.78,9778,222,74.14
+Model 2 (128-64),109386,97.58,0.0865,97.5,9750,250,70.02
